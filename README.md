@@ -70,85 +70,134 @@ Our work spans healthcare, commerce, enterprise operations, learning systems, an
 
 ## Technology Stack
 
-### Backend
-- PHP
-- Laravel
-- Node.js
-- Express.js
-- Fastify
-- AdonisJS
-- NestJS
+### 🖥️ Backend Services
 
-### Frontend
-- React
-- Next.js
-- Gatsby
-- Vue.js
-- Nuxt
-- Astro
+<div align="center">
 
-### Mobile
-- Kotlin
-- Android
-- Flutter
-- React Native
-- Kotlin Multiplatform
+| **Language** | **Framework** | **Specialization** |
+|:---:|:---:|---|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | Web applications, REST APIs, Monolithic systems |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | High-performance APIs, Microservices |
+| | ![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) | Ultra-fast HTTP servers, Real-time apps |
+| | ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white) | Full-stack Node.js framework |
+| | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | Enterprise-grade TypeScript applications |
 
-### Data & API Layer
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- GraphQL
-- Firebase
-- Supabase
+</div>
 
-### Testing & QA
-- Selenium
-- Playwright
-- Cypress
-- Appium
+---
 
-### DevOps & Cloud
-- Docker
-- Kubernetes
-- Jenkins
-- Nginx
-- AWS
-- Azure
-- Google Cloud
-- DigitalOcean
-- Vercel
-- Netlify
+### 🎨 Frontend & Web Technologies
+
+<div align="center">
+
+| **Library/Framework** | **Use Cases** | **Badge** |
+|:---:|---|:---:|
+| **React** | Component-based interactive UIs | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Next.js** | Full-stack React with SSR & Static Generation | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Gatsby** | JAMstack, Static Site Generation | ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) |
+| **Vue.js** | Progressive reactive frameworks | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
+| **Nuxt** | Vue full-stack with SSR capabilities | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) |
+| **Astro** | Fast multi-framework static sites | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) |
+| **TypeScript** | Type-safe JavaScript development | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+
+</div>
+
+---
+
+### 📱 Mobile Development
+
+<div align="center">
+
+| **Platform** | **Technologies** | **Coverage** |
+|:---:|:---:|---|
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Native Android development |
+| ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Cross-platform iOS & Android |
+| ![Cross-Platform](https://img.shields.io/badge/Cross--Platform-02569B?style=for-the-badge) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | Unified native experience |
+| | ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20MP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Shared business logic across platforms |
+| | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | JavaScript-based mobile development |
+
+</div>
+
+---
+
+### 💾 Data, APIs & Databases
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|:---:|---|
+| **Relational Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **NoSQL Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **API & Query** | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST-0078D4?style=for-the-badge) |
+| **Backend Services** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+
+</div>
+
+---
+
+### ✅ Testing, QA & Quality Assurance
+
+<div align="center">
+
+| **Testing Framework** | **Purpose** | **Badge** |
+|:---:|---|:---:|
+| **Selenium** | Browser automation & end-to-end testing | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+| **Playwright** | Cross-browser testing & automation | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
+| **Cypress** | Modern web app testing | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) |
+| **Appium** | Mobile app testing automation | ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 DevOps, Infrastructure & Cloud Platforms
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|:---:|---|
+| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Web Servers & Proxies** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D70015?style=for-the-badge&logo=apache&logoColor=white) |
+| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) |
+| **Frontend Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+
+</div>
 
 ---
 
 ## Delivery Philosophy
 
-- Product-first thinking with business alignment
-- Secure architecture and maintainable codebases
-- Scalable engineering designed for long-term growth
-- Agile delivery and transparent collaboration
-- Quality-focused testing and deployment practices
-- Partnership-driven execution beyond initial delivery
+- 🎯 Product-first thinking with business alignment
+- 🔒 Secure architecture and maintainable codebases
+- 📈 Scalable engineering designed for long-term growth
+- 🔄 Agile delivery and transparent collaboration
+- ✨ Quality-focused testing and deployment practices
+- 🤝 Partnership-driven execution beyond initial delivery
 
 ---
 
 ## Why Businesses Choose Appinion BD Limited
 
-- End-to-end software delivery across web, mobile, and backend systems
-- Strong understanding of enterprise workflows and operational complexity
-- Modern stack adoption with practical business-oriented implementation
-- Ability to build from concept to launch and support post-launch growth
-- Focus on reliability, performance, and business value
+✅ End-to-end software delivery across web, mobile, and backend systems  
+✅ Strong understanding of enterprise workflows and operational complexity  
+✅ Modern stack adoption with practical business-oriented implementation  
+✅ Ability to build from concept to launch and support post-launch growth  
+✅ Focus on reliability, performance, and business value  
 
 ---
 
-## Contact
+## Contact & Resources
 
-- Company Site: https://appinionbd.com
-- Business Enquiries: business@appinionbd.com
-- GitHub Organization: https://github.com/appiniondev
+<div align="center">
+
+| Resource | Link |
+|---|---|
+| **Company Website** | [appinionbd.com](https://appinionbd.com) |
+| **Business Inquiries** | [business@appinionbd.com](mailto:business@appinionbd.com) |
+| **GitHub Organization** | [github.com/appiniondev](https://github.com/appiniondev) |
+
+</div>
 
 ---
 
