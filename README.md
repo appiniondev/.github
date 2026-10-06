@@ -38,6 +38,16 @@ Our work spans healthcare, commerce, enterprise operations, learning systems, an
 
 ---
 
+## 🔐 Banking-Grade Security & Compliance
+
+<div align="center">
+
+> **Proven experience with banking organizations** — Deep expertise in financial-grade security protocols, compliance frameworks, and enterprise deployment processes. We understand regulatory requirements, secure architecture patterns, and production-ready standards.
+
+</div>
+
+---
+
 ## Core Capabilities
 
 ### Product & Platform Development
@@ -164,6 +174,7 @@ Our work spans healthcare, commerce, enterprise operations, learning systems, an
 ✅ Modern stack adoption with practical business-oriented implementation  
 ✅ Ability to build from concept to launch and support post-launch growth  
 ✅ Focus on reliability, performance, and business value  
+✅ Banking-grade security expertise and compliance knowledge
 
 ---
 
