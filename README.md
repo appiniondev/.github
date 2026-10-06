@@ -1,6 +1,10 @@
 # Appinion BD Limited
 
 <p align="center">
+  <img src="https://appinion.dev/logo.svg" width="180" alt="Appinion BD Limited logo" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1F2937&center=true&vCenter=true&width=900&lines=Enterprise+Digital+Solutions;Product+Engineering+%26+Digital+Transformation;Healthcare%2C+Commerce%2C+Operations+%26+Enterprise+Systems" alt="Appinion BD Limited banner" />
 </p>
 
