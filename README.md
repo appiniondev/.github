@@ -187,23 +187,31 @@ Our work spans healthcare, commerce, enterprise operations, learning systems, an
 
 ---
 
-## Contact & Resources
-
-<div align="center">
-
-| Resource | Link |
-|---|---|
-| **Company Website** | [appinionbd.com](https://appinionbd.com) |
-| **Business Inquiries** | [business@appinionbd.com](mailto:business@appinionbd.com) |
-| **GitHub Organization** | [github.com/appiniondev](https://github.com/appiniondev) |
-
-</div>
-
----
+## Let's Build Something Meaningful
 
 <p align="center">
-  <i>Driving innovation through digital products, enterprise systems, and business transformation.</i>
+  We turn business challenges into digital products that create clarity, efficiency, and measurable impact.
+  <br>
+  Whether you need a custom platform, a digital transformation roadmap, or a product built for scale, Appinion BD Limited is ready to help.
 </p>
+
+<p align="center">
+  <a href="https://appinionbd.com" target="_blank">
+    <img src="https://img.shields.io/badge/Company%20Site-appinionbd.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company Site" />
+  </a>
+  <a href="mailto:business@appinionbd.com">
+    <img src="https://img.shields.io/badge/Business%20Enquiries-business@appinionbd.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Inquiries" />
+  </a>
+  <a href="https://github.com/appiniondev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AppinionDev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Turning vision into digital impact.</i>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=appiniondev&label=Profile%20Views&color=1F2937&style=flat-square" alt="Profile views" />
