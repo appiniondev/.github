@@ -50,35 +50,11 @@ Our work spans healthcare, commerce, enterprise operations, learning systems, an
 
 ## Core Capabilities
 
-### Product & Platform Development
-- Business software and internal systems
-- Enterprise portals and admin dashboards
-- Customer-facing applications and digital experiences
-- SaaS and platform-driven product development
-
-### Healthcare & Service Platforms
-- Telehealth and care delivery systems
-- Patient workflows and operations tools
-- Digital health and service management platforms
-- Modernization of legacy workflows and systems
-
-### Commerce & Business Operations
-- E-commerce storefronts and admin systems
-- Order management and operations dashboards
-- Learning and training systems
-- HR, workforce, and process management products
-
-### Mobile & Frontend Experience
-- Responsive web applications
-- Progressive web experiences
-- Native and cross-platform app development
-- UI/UX design systems and product interfaces
-
-### Cloud, DevOps & Security
-- Modern deployment architecture
-- CI/CD pipelines and automation
-- Cloud infrastructure and hosting optimization
-- Monitoring, scaling, and performance engineering
+- Enterprise software development
+- Healthcare and service platforms
+- E-commerce and business operations systems
+- Mobile and frontend product engineering
+- Cloud, DevOps, and secure deployment solutions
 
 ---
 
